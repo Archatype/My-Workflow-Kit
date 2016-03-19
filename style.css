@@ -10,7 +10,7 @@ html, body {
  height: 100%;
 }
 .content {
-  background-image: url("http://i.imgur.com/IvN1c0W.jpg?1");
+  background-image: url("http://i.imgur.com/fz2Kl2r.jpg");
   background-attachment: fixed;
   height: 100%;
   width: 100%;
@@ -22,7 +22,7 @@ header{
   font-size: 150px;
   text-align: center;
   padding-top: 250px;
-  padding-bottom: 300px;
+  padding-bottom: 400px;
 }
 /* h1 */
 h1{
@@ -37,9 +37,14 @@ h1{
 .left{
   padding-left: 100px;
 }
-
 p{
   font-size: 30px;
+  color: white;
+  font-family: 'Josefin Sans', sans-serif;
+  padding-left: 50px;
+}
+.right3{
+  padding-left: 725px;
 }
 /* h2 */
 h2{
@@ -47,6 +52,10 @@ h2{
   color: white;
   font-size: 50px;
   text-decoration: underline;
+}
+.right2{
+  text-align: right;
+  padding-right: 400px;
 }
 /* SCANLINES EFFECT */
 .scanlines {
